@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "TTTGB-Medium";
+  src: url("../fontsT/TTTGB-Medium.woff2") format("woff2"),
+       url("../fontsT/TTTGB-Medium.woff") format("woff"),
+       url("../fontsT/TTTGB-Medium.ttf") format("truetype"),
+       url("../fontsT/TTTGB-Medium.eot") format("embedded-opentype"),
+       url("../fontsT/TTTGB-Medium.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
